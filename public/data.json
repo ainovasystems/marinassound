@@ -1,0 +1,96 @@
+{
+  "eventos": [
+    {
+      "id": "asturias",
+      "nombre": "Mariñas Sound Asturias",
+      "fecha": "2025-12-06",
+      "estado": "entradas disponibles",
+      "urlEntradas": "https://www.fourvenues.com/marinas-sound/UE3X",
+      "localizacion": "Discoteca Space Four, Avilés",
+      "hora": "Por confirmar",
+      "imagen": "/GENERAL MARIÑAS SOUND 3 PUBLICACIÓN.jpg",
+      "cartel": "/GENERAL MARIÑAS SOUND 3 PUBLICACIÓN.jpg",
+      "urlBuses": "https://ejemplo-buses.com",
+      "enableBuses": false,
+      "artistas": []
+    },
+    {
+      "id": "hermo",
+      "nombre": "Mariñas Sound Hermo",
+      "fecha": "2025-12-19",
+      "estado": "próximamente",
+      "urlEntradas": "https://www.fourvenues.com/marinas-sound/LDZY",
+      "localizacion": "Discoteca Hermo, Muimenta",
+      "hora": "Por confirmar",
+      "imagen": "/MARIÑAS HERMO 19 DICIEMBRE PUBLICACIÓN.jpg",
+      "cartel": "/MARIÑAS HERMO 19 DICIEMBRE PUBLICACIÓN.jpg",
+      "urlBuses": "https://ejemplo-buses.com",
+      "enableBuses": false,
+      "artistas": []
+    },
+    {
+      "id": "fda",
+      "nombre": "Blue New Year (FDA)",
+      "fecha": "2025-12-31",
+      "estado": "próximamente",
+      "urlEntradas": "https://www.fourvenues.com/marinas-sound/A5ML",
+      "localizacion": "Sala Tebras, Lugo",
+      "hora": "01:00",
+      "imagen": "/BLUE NEW YEAR PUBLICACIÓN.jpg",
+      "cartel": "/BLUE NEW YEAR PUBLICACIÓN.jpg",
+      "artistas": [],
+      "enableBuses": false,
+      "enableAutorizacion": false
+    },
+    {
+      "fondo": "@antonioaguiin-95.jpg",
+      "id": "lugo-xxl",
+      "nombre": "Mariñas Sound XXL",
+      "fecha": "2026-01-30",
+      "estado": "próximamente",
+      "urlEntradas": "",
+      "mostrarBotonEntradas": false,
+      "localizacion": "Pazo de Feiras e Congresos de Lugo",
+      "hora": "Por confirmar",
+      "imagen": "@antonioaguiin-137.jpg",
+      "urlBuses": "https://ejemplo-buses.com",
+      "enableBuses": false,
+      "enableAutorizacion": false,
+      "artistasPorDia": {
+        "dia1": [
+          { "nombre": "???????", "confirmado": false, "imagen": "/sombra.jpg" },
+          { "nombre": "???????", "confirmado": false, "imagen": "/sombra.jpg" },
+          { "nombre": "???????", "confirmado": false, "imagen": "/sombra.jpg" },
+          { "nombre": "???????", "confirmado": false, "imagen": "/sombra.jpg" },
+          { "nombre": "???????", "confirmado": false, "imagen": "/sombra.jpg" },
+          { "nombre": "???????", "confirmado": false, "imagen": "/sombra.jpg" },
+          { "nombre": "???????", "confirmado": false, "imagen": "/sombra.jpg" },
+          { "nombre": "???????", "confirmado": false, "imagen": "/sombra.jpg" },
+          { "nombre": "???????", "confirmado": false, "imagen": "/sombra.jpg" },
+          { "nombre": "???????", "confirmado": false, "imagen": "/sombra.jpg" }
+        ],
+        "dia2": [
+          { "nombre": "???????", "confirmado": false, "imagen": "/sombra.jpg" },
+          { "nombre": "???????", "confirmado": false, "imagen": "/sombra.jpg" },
+          { "nombre": "???????", "confirmado": false, "imagen": "/sombra.jpg" },
+          { "nombre": "???????", "confirmado": false, "imagen": "/sombra.jpg" },
+          { "nombre": "???????", "confirmado": false, "imagen": "/sombra.jpg" },
+          { "nombre": "???????", "confirmado": false, "imagen": "/sombra.jpg" },
+          { "nombre": "???????", "confirmado": false, "imagen": "/sombra.jpg" },
+          { "nombre": "???????", "confirmado": false, "imagen": "/sombra.jpg" },
+          { "nombre": "???????", "confirmado": false, "imagen": "/sombra.jpg" },
+          { "nombre": "???????", "confirmado": false, "imagen": "/sombra.jpg" }
+        ]
+      }
+    }
+  ],
+  "contacto": {
+    "email": "marinassound@gmail.com",
+    "instagram": "https://www.instagram.com/marinas.sound/"
+  },
+  "urlEntradasGeneral": "https://forvenues.link/marinas-sound",
+  "urlAutorizacionMenores": "/autorizacion-menores.pdf",
+  "urlBuses": "https://ejemplo-buses.com",
+  "galeria": ["/images/festival-1.jpg", "/images/festival-2.jpg", "/images/festival-3.jpg", "/images/festival-4.jpg"],
+  "imagenFondoFestival": "/@antonioaguiin-65.jpg"
+}
