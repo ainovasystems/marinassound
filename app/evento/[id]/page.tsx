@@ -36,7 +36,7 @@ export default function EventoPage() {
           setEvento({
             ...foundEvento,
             urlEntradas: foundEvento.urlEntradas || data.urlEntradasGeneral,
-            urlAutorizacionMenores: data.urlAutorizacionMenores,
+            urlAutorizacionMenores: foundEvento.urlAutorizacionMenores || data.urlAutorizacionMenores,
             urlBuses: foundEvento.urlBuses || data.urlBuses,
           })
         }

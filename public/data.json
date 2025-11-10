@@ -12,6 +12,8 @@
       "cartel": "/GENERAL MARIÑAS SOUND 3 PUBLICACIÓN.jpg",
       "urlBuses": "https://ejemplo-buses.com",
       "enableBuses": false,
+      "urlAutorizacionMenores": "https://drive.google.com/drive/folders/1XKa6p96S4xS4EMTzvVoqL49VTqX-Q-85?usp=drive_link",
+      "enableAutorizacion": true,
       "artistas": []
     },
     {
@@ -26,6 +28,8 @@
       "cartel": "/MARIÑAS HERMO 19 DICIEMBRE PUBLICACIÓN.jpg",
       "urlBuses": "https://ejemplo-buses.com",
       "enableBuses": false,
+      "urlAutorizacionMenores": "https://drive.google.com/drive/folders/1Qv2zAOZDmqtBb1ys4yqllB6VBUFyTStc?usp=drive_link",
+      "enableAutorizacion": true,
       "artistas": []
     },
     {
@@ -89,7 +93,6 @@
     "instagram": "https://www.instagram.com/marinas.sound/"
   },
   "urlEntradasGeneral": "https://forvenues.link/marinas-sound",
-  "urlAutorizacionMenores": "/autorizacion-menores.pdf",
   "urlBuses": "https://ejemplo-buses.com",
   "galeria": ["/images/festival-1.jpg", "/images/festival-2.jpg", "/images/festival-3.jpg", "/images/festival-4.jpg"],
   "imagenFondoFestival": "/@antonioaguiin-65.jpg"
